@@ -53,7 +53,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'polling.wsgi.application'
+WSGI_APPLICATION = 'pooling.wsgi.application'
 
 
 # Database
